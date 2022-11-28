@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/jeden"
+        android:title="1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/dwa"
+        android:title="2"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/trzy"
+        android:title="3"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/cztery"
+        android:title="4"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/piec"
+        android:title="5"
+        app:showAsAction="never"
+        />
+
+
+</menu>
